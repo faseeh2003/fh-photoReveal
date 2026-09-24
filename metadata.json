@@ -1,0 +1,6 @@
+{
+  "name": "Reveal Puzzle",
+  "description": "Turn your photos into scrambled, numbered surprise puzzles. Share with friends to let them reveal the photo piece by piece.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
